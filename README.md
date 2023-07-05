@@ -17,10 +17,15 @@ ecoBot is a feature-rich, economy-focused Discord bot designed for WPG and RP th
 
 To get started with the bot, follow these steps:
 
-1. Invite the bot to your Discord server using your following link.
-2. Set up the necessary permissions for the bot based on the desired functionality.
-3. Configure the economy system, store, and any other custom settings as per your server's requirements.
-4. Please note that to configure the bot's behavior, you will need to modify the code according to your requirements.
+1. Install the BDFD application or access the web version by visiting the [BDFD website](https://botdesignerdiscord.com/).
+2. Create a new project in BDFD and open it in the BDFD editor.
+3. Clone or download the bot's source code from the [GitHub repository](https://github.com/rastfimov/ecobot).
+4. Open the source code in your preferred code editor.
+5. Customize the bot's behavior and settings by modifying the appropriate sections of the code.
+6. Run the bot's code or deploy it to your preferred hosting platform.
+7. Once the bot is up and running, it will be ready to use on your Discord server.
+
+**You can also import the bot's code into BDFD using the following exchange code: code** **[NOT OUTDATED]**
    
 ## Contributions
 
@@ -39,4 +44,5 @@ If you have any questions or need assistance with the bot, you can join our Disc
 - [ ] Add a custom ticket system
 - [ ] Add advanced administrative commands (ban, mute, kick, warn)
 - [ ] Add more fun commands
+- [ ] Explore the possibility of importing the bot to other popular programming languages
 
