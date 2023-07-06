@@ -46,7 +46,7 @@ If you have any questions or need assistance with the bot, you can join our Disc
 - [ ] Add more fun commands
 - [ ] Explore the possibility of importing the bot to other popular programming languages
 
-## Collaborative Ingenuity:
+## Collaborative Ingenuity
 
 At ecoBot, we embrace the philosophy of "Collaborative Ingenuity", we believe in providing users with the freedom to unleash their creativity and create unique server experiences. Our goal is to empower users to customize and shape ecoBot according to their vision.
 
