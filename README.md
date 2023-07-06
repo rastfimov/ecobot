@@ -37,7 +37,7 @@ This project is licensed under the GNU General Public License v3.0 (GPL-3.0). Fo
 
 ## Support
 
-If you have any questions or need assistance with the bot, you can join our Discord server: [Discord Server Link](https://discord.gg/c2qXRjBzYf).
+If you have any questions or need assistance with the bot, you can join our Discord server: [Discord Server Link](https://discord.gg/WngCqhbP).
 
 ## Plans
 
